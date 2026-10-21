@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Moonwrld
-- 👀 I’m interested in ... science 
-- 🌱 I’m currently learning ... computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mondayjohnq005@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m Frontend Web Developer
 
 <!---
 MoonwrldX/MoonwrldX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
